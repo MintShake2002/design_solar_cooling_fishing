@@ -1,4 +1,3 @@
-# design_solar_cooling_fishing
 # Solar Cooling System Design for Artisanal Fishing 🎣🧊
 
 This repository contains a Python tool for sizing and thermal design of an **off-grid solar vapor-compression refrigeration system** integrated with **Phase Change Materials (PCM)**, specifically designed for preservation in artisanal fishing.
